@@ -4,6 +4,7 @@ List of useful Developer tools
 - Homebrew for Mac
 - openjdk for java development 
 - Intellij Idea - for Coding 
+
       Plugins
         > ace jump
         > Diffblue cover
@@ -19,13 +20,14 @@ List of useful Developer tools
         > code coverage
         > lombok
 - Visual Studio Code - for k8s plugins
-    Extensions
-      > kubernetes
-      > yaml
-      > docker
-      > angular
-      > vim
-      > git etc
+
+          Extensions
+            > kubernetes
+            > yaml
+            > docker
+            > angular
+            > vim
+            > git etc
 - Docker Desktop - for running container images
 - hyperkit - for running container images
 - kubectl - for kubernetes CLI
